@@ -8,4 +8,4 @@ target/
 *.wasm
 
 # decapod data
-.decapod/data 
+.decapod/data
